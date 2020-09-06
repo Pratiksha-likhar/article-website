@@ -1,0 +1,33 @@
+body {
+  background-color: white;
+}
+
+#header-nav {
+  background-color: black;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+  margin-bottom: 20px;
+}
+
+.navbar-brand h1 {
+  font-family: Arial;
+  line-height: 0.75;
+  color: #FBCCE1;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1.5em;
+  text-shadow: 1px, 1px, 1px, #222;
+}
+
+#nav-list a {
+  font-size: 1.3em;
+  color: white;
+  font-family: Comic Sans MS;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  margin-top: 10px;
+}
